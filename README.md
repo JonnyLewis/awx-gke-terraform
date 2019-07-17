@@ -1,6 +1,6 @@
 # AWX (Ansible Tower) on GKE using Terraform
 
-![kubernetes-awx](https://user-images.githubusercontent.com/2195781/56848717-75d56280-68ec-11e9-8b6e-36fee9fbb712.png)
+![kubernetes-awx](https://github.com/JonnyLewis/awx-gke-terraform/blob/master/Screen%20Shot%202019-07-17%20at%2012.13.44%20PM.png?raw=true)
 
 Infra-as-code (terraform + helm) for creating a Kubernetes cluster with AWX
 (Ansible Tower) and featuring
